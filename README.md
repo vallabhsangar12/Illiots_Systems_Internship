@@ -10,6 +10,7 @@ second change
    b. config user email : git config --global user.email "example@gmail.com"<br>
 <br>
 <B> 4. Clone and Status</B>
-  <br> a. Clone - git clone <-somelinks->
+  <br> a. Clone - git clone <-somelinks-> <br>
+  b.Status - Displays the status of code  <br>
 
 
