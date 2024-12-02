@@ -12,5 +12,5 @@ second change
 <B> 4. Clone and Status</B>
   <br> a. Clone - git clone <-somelinks-> <br>
   b.Status - Displays the status of code  <br>
-c
+cd
 
