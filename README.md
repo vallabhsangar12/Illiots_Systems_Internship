@@ -12,5 +12,8 @@ second change
 <B> 4. Clone and Status</B>
   <br> a. Clone - git clone <-somelinks-> <br>
   b.Status - Displays the status of code  <br>
-cd
+
+<br>
+Push command- <br>
+Upload local repo content to remote repository git push origin main.<br>
 
