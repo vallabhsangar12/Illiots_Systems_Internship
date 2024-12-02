@@ -6,4 +6,6 @@ second change
 <br> 
 2. <b>Setting up Git<b><br>
 3.<B> Configure Github</b>
+a. set username command : git config --global user.name "username@ex"<br>
+b. config user email : git config --global user.email "example@gmail.com"<br>
 <br>
