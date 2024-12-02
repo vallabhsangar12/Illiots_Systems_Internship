@@ -5,3 +5,5 @@ the First change which is done.
 second change
 <br> 
 2. <b>Setting up Git<b>
+3.<B> Configure Github</b>
+<br>
