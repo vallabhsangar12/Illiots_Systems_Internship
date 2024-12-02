@@ -4,6 +4,6 @@ the First change which is done.
 <br>
 second change
 <br> 
-2. <b>Setting up Git<b>
+2. <b>Setting up Git<b><br>
 3.<B> Configure Github</b>
 <br>
