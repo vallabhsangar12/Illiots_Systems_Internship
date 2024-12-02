@@ -9,3 +9,7 @@ second change
    a. set username command : git config --global user.name "username@ex"<br>
    b. config user email : git config --global user.email "example@gmail.com"<br>
 <br>
+<B> 4. Clone and Status</B>
+  <br> a. Clone - git clone <-somelinks->
+
+
