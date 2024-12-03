@@ -10,6 +10,7 @@ second change
    b. config user email : git config --global user.email "example@gmail.com"<br>
 <br>
 <B> 4. Clone and Status</B>
+<<<<<<< HEAD
   <br> a. Clone - git clone <-somelinks->
   b.Status - give status <br>
 c.add- adds new or changed files in your working to git staging area.
@@ -22,4 +23,12 @@ d. commit - it is record of change
  <br> git add ff.txt
  <b> vekrge</b>
  
+=======
+  <br> a. Clone - git clone <-somelinks-> <br>
+  b.Status - Displays the status of code  <br>
+
+<br>
+Push command- <br>
+Upload local repo content to remote repository git push origin main.<br>
+>>>>>>> origin/main
 
