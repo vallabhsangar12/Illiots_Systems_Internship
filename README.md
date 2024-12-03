@@ -11,5 +11,15 @@ second change
 <br>
 <B> 4. Clone and Status</B>
   <br> a. Clone - git clone <-somelinks->
-
+  b.Status - give status <br>
+c.add- adds new or changed files in your working to git staging area.
+git add <-filename->
+ <br>
+d. commit - it is record of change
+ <br>
+ git commit -m "some changes"abc.txt <br>
+ git push operation
+ <br> git add ff.txt
+ <b> vekrge</b>
+ 
 
